@@ -1,0 +1,10 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# pytest
+.pytest_cache/
+
+# 测试报告
+reports/
